@@ -9,7 +9,13 @@
 
 	"autoload": {
 		"psr-4": {"Massfice\\HelloWorld\\": "src/"}
-    }
+  },
+
+  "scripts": {
+    "post-package-install": [
+        "mkdir test"
+    ],
+  }
 
 
 }
