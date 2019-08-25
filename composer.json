@@ -3,7 +3,7 @@
     "type": "library",
     "require": {
 
-      "massfice/composer-first-plugin": "master-dev"
+      "massfice/composer-first-plugin": "dev-master"
 
     },
 
