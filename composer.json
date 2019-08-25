@@ -1,5 +1,21 @@
 {
     "name": "massfice/testing2",
     "type": "library",
-    "require": {}
+    "repositories": [
+      {
+          "type": "vcs",
+          "url": "https://github.com/Massfice/testing.git"
+      }
+    ],
+    "require": {
+
+      "massfice/testing": "master-dev"
+
+    }
+	
+	"autoload": {
+		"psr-4": {"Massfice\\HelloWorld\\": "src/"}
+    }
+	
+	
 }
