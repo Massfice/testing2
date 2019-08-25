@@ -14,7 +14,7 @@
   "scripts": {
     "post-package-install": [
         "mkdir test"
-    ],
+    ]
   }
 
 
