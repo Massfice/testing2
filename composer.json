@@ -3,7 +3,7 @@
     "type": "library",
     "require": {
 
-      "massfice/storage": "^1.*"
+      "massfice/storage": "^1.0"
 
     },
 
