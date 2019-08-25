@@ -11,11 +11,11 @@
 
       "massfice/testing": "master-dev"
 
-    }
-	
+    },
+
 	"autoload": {
 		"psr-4": {"Massfice\\HelloWorld\\": "src/"}
     }
-	
-	
+
+
 }
