@@ -1,0 +1,15 @@
+{
+    "name": "massfice/testing2",
+    "type": "library",
+    "repositories": [
+      {
+          "type": "vcs",
+          "url": "https://github.com/Massfice/testing.git"
+      }
+    ],
+    "require": {
+
+      "massfice/testing": "master-dev"
+
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "29d7ab37364f41d4b9b745e79237383f",
+    "packages": [
+        {
+            "name": "massfice/testing",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Massfice/testing.git",
+                "reference": "cefe1cee67e2245d26ba7124b749ca3bf98b818b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Massfice/testing/zipball/cefe1cee67e2245d26ba7124b749ca3bf98b818b",
+                "reference": "cefe1cee67e2245d26ba7124b749ca3bf98b818b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Massfice\\ShowString\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Massfice",
+                    "email": "adrian.marian.tomasz.larysz@gmail.com"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/Massfice/testing/tree/master",
+                "issues": "https://github.com/Massfice/testing/issues"
+            },
+            "time": "2019-08-25T13:35:44+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "massfice/testing": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
